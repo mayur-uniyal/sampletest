@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class Booking {
+public class Signup {
 	
 	@Test
 	public void sample()  throws InterruptedException
